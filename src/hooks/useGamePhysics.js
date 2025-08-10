@@ -7,7 +7,7 @@ const PHYSICS_CONFIG = {
   birdSize: 40,
   pipeWidth: 60,
   pipeGap: 200,
-  gameSpeed: 2
+  gameSpeed: 4
 };
 
 export const useGamePhysics = () => {
